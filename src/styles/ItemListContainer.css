@@ -1,0 +1,18 @@
+.itemListContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2rem;
+}
+.textH2{
+    color: rgb(215, 125, 0);
+}
+.items-Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+    margin-top: 5%;
+}

@@ -1,0 +1,35 @@
+.navBar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 2rem 5rem;
+    align-items: center;
+    border-bottom: 1px solid #c5c5c5;
+}
+
+.ulNav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    font-size: 18px;
+    font-weight: 500;
+    list-style: none;
+}
+.ulNav a{
+    text-decoration: none;
+    color: black;
+    transition: .5s ease;
+    &&:hover{
+        color: rgb(215, 125, 0);
+    }
+}
+
+.logoNav{
+    width: 150px;
+    transition: .5s ease;
+    &&:hover{
+        cursor: pointer;
+        scale: 1.1;
+    }
+}
