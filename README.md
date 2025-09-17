@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Fernando</h1>
-<h3 align="center">Bienvenido a mi primer proyecto de React.jsx</h3>
+<h3 align="center">Bienvenido a mi primer proyecto de React</h3>
 
 - Este es mi primer proyecto. Se trata de un ecommerce sobre una tienda de calzados e indumentara. [Shoes Store](https://motorpsico97.github.io/ProyectoRedondo/)
 
